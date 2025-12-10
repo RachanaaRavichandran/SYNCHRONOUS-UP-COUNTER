@@ -36,6 +36,7 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 
 Developed by: RegisterNumber:25004301
 */
+
 module exp7 (out,clk,rstn); 
 input clk,rstn;
 output reg [3:0] out;
