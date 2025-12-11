@@ -54,7 +54,9 @@ endmodule
 <img width="565" height="251" alt="Screenshot 2025-12-10 143113" src="https://github.com/user-attachments/assets/3032b22a-b703-4826-82b2-2abff8a1408d" />
 
 **TIMING DIAGRAM FOR IP COUNTER**
-<img width="1496" height="794" alt="Screenshot 2025-12-10 142617" src="https://github.com/user-attachments/assets/ac503cad-8488-4ad0-8589-06e64d05de89" />
+<img width="1484" height="800" alt="timing diagram 6" src="https://github.com/user-attachments/assets/99401ef6-14ad-44b6-b667-9ce450dc5661" />
+
+
 
 **TRUTH TABLE**
 <img width="1022" height="656" alt="Screenshot 2025-12-10 142547" src="https://github.com/user-attachments/assets/6e683e74-cf1f-4c06-a7d8-7f8f179a708e" />
